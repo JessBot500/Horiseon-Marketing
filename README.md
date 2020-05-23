@@ -1,9 +1,14 @@
-# urban-octo-fixings
+# Code Refactor Starter Code
 
-1. added Horiseon title
+Horiseon multi-media marketing page
+    increased accessibility
+    cleaner code
+    functional headers
 
-2. linked <a>SEO to div id SEO
+1. Added Horiseon title.
 
-3. cleaned up page with comments, breaks b/w sections, renaming some divs
+2. Linked <a>SEO to div id SEO.
 
-4. 
+3. Cleaned up page with comments, breaks b/w sections, renaming divs.
+
+4. Consolidated CSS where applicable.
