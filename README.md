@@ -1,9 +1,10 @@
 # Code Refactor Starter Code
 
 Horiseon multi-media marketing page
-    increased accessibility
-    cleaner code
-    functional headers
+    Accessible webpage for SEO and marketing company called Horiseon.
+    
+    Cleaned up the code
+    Made functional headers
 
 1. Added Horiseon title.
 
@@ -12,3 +13,8 @@ Horiseon multi-media marketing page
 3. Cleaned up page with comments, breaks b/w sections, renaming divs.
 
 4. Consolidated CSS where applicable.
+
+
+My repository: https://github.com/JessBot500/Horiseon-Marketing
+
+Live URL: https://jessbot500.github.io/Horiseon-Marketing/
