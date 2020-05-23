@@ -6,6 +6,8 @@ Horiseon multi-media marketing page
     Cleaned up the code
     Made functional headers
 
+![ScreenShot](assets/images/horiseon.png)
+
 1. Added Horiseon title.
 
 2. Linked <a>SEO to div id SEO.
